@@ -2,6 +2,7 @@
 Population Structure with Diffusion Cellular Genetic Algorithm with Matlab
 
 Fitness Function
+
 ![Screenshot](screenshot3.PNG)
 
 Result
