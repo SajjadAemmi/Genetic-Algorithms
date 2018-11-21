@@ -2,10 +2,10 @@
 Population Structure with Diffusion Cellular Genetic Algorithm with Matlab
 
 Fitness Function
-![Screenshot](screenshot3.png)
+![Screenshot](screenshot3.PNG)
 
 Result
 
-![Screenshot](screenshot2.png)
-![Screenshot](screenshot1.png)
+![Screenshot](screenshot2.PNG)
+![Screenshot](screenshot1.PNG)
 
